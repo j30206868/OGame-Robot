@@ -1,0 +1,107 @@
+<?xml encoding="UTF-8">
+
+<div title="1.43.9.1" class="PlanetDiv"> 
+
+	<span id="shields">
+		<li>  1.43.9.3   </li>
+		<li>  1.43.11.1  </li>
+		<li>  1.42.8.1   </li>
+	</span>
+
+	<span id="max" class="max">
+		50
+	</span>
+
+	<span id="details"> 
+		<li> 死星       , 1    </li>
+		<li> 毀滅者     , 1    </li>
+		<li> 導彈艦     , 1    </li>
+		<li> 戰鬥巡洋艦 , 1    </li>
+		<li> 戰列艦     , 1    </li>
+		<li> 巡洋艦     , 5    </li>
+		<li> 重型戰鬥機 , 10   </li>
+		<li> 輕型戰鬥機 , 30   </li>
+	</span>
+
+</div>
+
+<div title="4.153.8.1" class="PlanetDiv"> 
+
+	<span id="shields">
+		<li>  4.98.7.1   </li>
+		<li>  3.207.7.1   </li>
+		<li>  1.42.8.1   </li>
+		<li>  1.42.9.1   </li>
+		<li>  1.42.11.1  </li>
+	</span>
+
+	<span id="max" class="max">
+		1000
+	</span>
+
+	<span id="details"> 
+		<li> 死星       , 1    </li>
+		<li> 毀滅者     , 10   </li>
+		<li> 導彈艦     , 10   </li>
+		<li> 戰鬥巡洋艦 , 10   </li>
+		<li> 戰列艦     , 10   </li>
+		<li> 巡洋艦     , 100  </li>
+		<li> 重型戰鬥機 , 500  </li>
+		<li> 輕型戰鬥機 , 1000 </li>
+	</span>
+
+</div>
+
+<div title="3.207.7.1" class="PlanetDiv"> 
+
+	<span id="shields">
+		<li>  3.207.7.3   </li>
+		<li>  3.207.8.1   </li>
+		<li>  1.42.8.1   </li>
+		<li>  1.42.9.1   </li>
+		<li>  1.42.11.1  </li>
+	</span>
+
+	<span id="max" class="max">
+		1000
+	</span>
+
+	<span id="details"> 
+		<li> 死星       , 1    </li>
+		<li> 毀滅者     , 10   </li>
+		<li> 導彈艦     , 10   </li>
+		<li> 戰鬥巡洋艦 , 10   </li>
+		<li> 戰列艦     , 10   </li>
+		<li> 巡洋艦     , 100  </li>
+		<li> 重型戰鬥機 , 500  </li>
+		<li> 輕型戰鬥機 , 1000 </li>
+	</span>
+
+</div>
+
+<div title="3.207.7.3" class="PlanetDiv"> 
+
+	<span id="shields">
+		<li>  3.207.7.1   </li>
+		<li>  3.207.8.1   </li>
+		<li>  1.42.8.1   </li>
+		<li>  1.42.9.1   </li>
+		<li>  1.42.11.1  </li>
+	</span>
+
+	<span id="max" class="max">
+		1000
+	</span>
+
+	<span id="details"> 
+		<li> 死星       , 1    </li>
+		<li> 毀滅者     , 10   </li>
+		<li> 導彈艦     , 10   </li>
+		<li> 戰鬥巡洋艦 , 10   </li>
+		<li> 戰列艦     , 10   </li>
+		<li> 巡洋艦     , 100  </li>
+		<li> 重型戰鬥機 , 500  </li>
+		<li> 輕型戰鬥機 , 1000 </li>
+	</span>
+
+</div>

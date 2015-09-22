@@ -1,0 +1,46 @@
+2015/08/13 07:32 AM
+	改FleetCommader, getfleetDetails(), 找船隊事件從後面找起, 並且原本使用foreach 改用for
+	改FleetCommader, sendAllFleetsToShield(), echo fcheck_page 的值, 並且嘗試判斷fcheck_page的值代表的意義 
+					 修改 getFleetCheck() 並新增傳入的參數
+					 修改 呼叫 getFleetCheck() 的地方
+					 修改所有有使用到$this->target_coord的地方(最後fleetcheck確定往哪跑時 才會給定正確的座標)
+	
+	改Global Function, getOGameServerTime(), error時, return改為false(原本return0)
+					 , 加入getCoordTextWithType()
+	
+	改LoginManager, checkServerTimeDiff(), 增加判斷式, if($ogame_clock !== false) 才write time.log
+										   寫入內容改變, 多加入了$now_time, $ogame_clock的值
+	
+	加入EscapeFilter.php
+	為每個帳號新增Directory(以帳號命名) 帳號資料夾下 加入 Escape.txt 跟 子資料夾AttackList 
+	在GuardEternal.php 加入require_once("EscapeFilter.php");
+
+	改AttackDetector 	取消提前判斷船隊數量是否有威脅性
+						將total_fleets_count跟eventFleetStr紀錄起來
+						等到確定被攻擊的星球 是該程式正在保護的星球時 才判斷攻擊是否具有威脅性(避免不必要的時間浪費)
+
+	大改路徑設定 消除AttackDetector資料夾 把個帳號資訊全部存到個帳號自己的Directory下
+				 Defender資料夾只剩sync要使用的key.txt資料夾
+
+問題
+	目標星球還是錯的
+	判斷威脅性有問題
+	取得fleet id失敗 (因為派遣的真正星球 跟記錄的不一樣)
+
+測試計畫
+	確定 各類船艦的local門檻都沒問題
+	確定 各local門檻ok 但是總數過多時 船隊會跑
+		 測試很多都在門檻內 只有一個過多 船隊會跑
+	確定 沒有escape list的星球仍會逃船
+	確定 當地一顆shield不能走時, 會一直找直到有一個可以的
+	確定 當有好幾隊船在跑時 detector鎖定的是正確的那隻逃亡船隊(僅能抓到在最後面的且origin dest都符合的) 且 撤退有成功
+	確定 當escape list中有tab時仍能運作
+
+	確定 檔案路徑大改以後仍正常運作
+		 Resource也是
+
+	撰寫一個一次性的php腳本 來update時間 然後讓系統每小時跑一次 這樣走時也不會太誇張
+
+	測試 send fleet 到一半被中斷(session被搶) 多嘗試幾次 找出bug並修正
+2015/8/14
+	ConfigManager 新增$config['UPT_TIME_DIR'] = $config['USER_DIR'] . "PlanetUpdateTime\\";

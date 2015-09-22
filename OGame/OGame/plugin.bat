@@ -1,0 +1,1 @@
+C:\"Program Files (x86)"\Web\php.exe .\..\main.php 

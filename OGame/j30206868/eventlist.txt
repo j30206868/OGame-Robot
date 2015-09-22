@@ -1,0 +1,324 @@
+
+<div id="eventListWrap">
+    <div id="eventHeader">
+        <a class="close_details eventToggle" href="javascript:void(0);">
+            <img src="http://gf2.geo.gfsrv.net/cdndf/3e567d6f16d040326c7a0ea29a4f41.gif" height="16" width="16" />
+        </a>
+        <h4>事件</h4>
+    </div>    <table id="eventContent">
+        <tbody>
+                                                    
+<tr class="eventFleet" id="eventRow-7003284"    data-mission-type="8"
+    data-return-flight="false"
+    data-arrival-time="1439448395"
+    >
+
+    <td class="countDown friendly textBeefy" id="counter-eventlist-7003284">
+        載入中...    </td>
+            <td class="arrivalTime">14:46:35 小時</td>
+    
+    <td class="missionFleet">
+        <img src="http://gf1.geo.gfsrv.net/cdn08/26dd1bcab4f77fe67aa47846b3b375.gif"
+                          class="tooltipHTML" title="己方艦隊|採集回收"
+            
+        />
+    </td>
+
+            <td class="originFleet">
+                            <figure class="planetIcon planet"></figure>Eternal                                    </td>
+        <td class="coordsOrigin">
+            <a href="http://s113-tw.ogame.gameforge.com/game/index.php?page=galaxy&galaxy=1&system=42" target="_top">
+                [1:42:8]            </a>
+        </td>
+    
+
+    <td class="detailsFleet">
+                    <span>6</span>
+            </td>
+    <td class="icon_movement">
+                <span class="tooltip tooltipRight tooltipClose"
+                title="&lt;div class=&quot;htmlTooltip&quot;&gt;
+    &lt;h1&gt;艦隊詳細資料:&lt;/h1&gt;
+    &lt;div class=&quot;splitLine&quot;&gt;&lt;/div&gt;
+&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;fleetinfo&quot;&gt;
+    &lt;tr&gt;
+        &lt;th colspan=&quot;2&quot;&gt;艦船數:&lt;/th&gt;
+    &lt;/tr&gt;
+            &lt;tr&gt;
+        &lt;td&gt;回收船:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+                &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th colspan=&quot;2&quot;&gt;裝運:&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;金屬:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;晶體:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;重氫:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;
+" data-federation-user-id="">&nbsp;</span>
+            </td>
+    <td class="destFleet">
+        <figure class="planetIcon tf"></figure>廢墟    </td>
+
+    <td class="destCoords">
+        <a href="http://s113-tw.ogame.gameforge.com/game/index.php?page=galaxy&galaxy=1&system=140" target="_top">
+            [1:140:7]        </a>
+    </td>
+
+
+    <td class="sendProbe">
+            </td>
+    <td class="sendMail">
+            </td>
+</tr>
+
+                                                                    
+<tr class="eventFleet" id="eventRow-7003290"    data-mission-type="8"
+    data-return-flight="false"
+    data-arrival-time="1439448430"
+    >
+
+    <td class="countDown friendly textBeefy" id="counter-eventlist-7003290">
+        載入中...    </td>
+            <td class="arrivalTime">14:47:10 小時</td>
+    
+    <td class="missionFleet">
+        <img src="http://gf1.geo.gfsrv.net/cdn08/26dd1bcab4f77fe67aa47846b3b375.gif"
+                          class="tooltipHTML" title="己方艦隊|採集回收"
+            
+        />
+    </td>
+
+            <td class="originFleet">
+                            <figure class="planetIcon planet"></figure>Eternal                                    </td>
+        <td class="coordsOrigin">
+            <a href="http://s113-tw.ogame.gameforge.com/game/index.php?page=galaxy&galaxy=1&system=42" target="_top">
+                [1:42:8]            </a>
+        </td>
+    
+
+    <td class="detailsFleet">
+                    <span>6</span>
+            </td>
+    <td class="icon_movement">
+                <span class="tooltip tooltipRight tooltipClose"
+                title="&lt;div class=&quot;htmlTooltip&quot;&gt;
+    &lt;h1&gt;艦隊詳細資料:&lt;/h1&gt;
+    &lt;div class=&quot;splitLine&quot;&gt;&lt;/div&gt;
+&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;fleetinfo&quot;&gt;
+    &lt;tr&gt;
+        &lt;th colspan=&quot;2&quot;&gt;艦船數:&lt;/th&gt;
+    &lt;/tr&gt;
+            &lt;tr&gt;
+        &lt;td&gt;回收船:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+                &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th colspan=&quot;2&quot;&gt;裝運:&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;金屬:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;晶體:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;重氫:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;
+" data-federation-user-id="">&nbsp;</span>
+            </td>
+    <td class="destFleet">
+        <figure class="planetIcon tf"></figure>廢墟    </td>
+
+    <td class="destCoords">
+        <a href="http://s113-tw.ogame.gameforge.com/game/index.php?page=galaxy&galaxy=1&system=140" target="_top">
+            [1:140:12]        </a>
+    </td>
+
+
+    <td class="sendProbe">
+            </td>
+    <td class="sendMail">
+            </td>
+</tr>
+
+                                                                    
+<tr class="eventFleet" id="eventRow-7003285"    data-mission-type="8"
+    data-return-flight="true"
+    data-arrival-time="1439467583"
+    >
+
+    <td class="countDown friendly textBeefy" id="counter-eventlist-7003285">
+        載入中...    </td>
+            <td class="arrivalTime">20:06:23 小時</td>
+    
+    <td class="missionFleet">
+        <img src="http://gf1.geo.gfsrv.net/cdn08/26dd1bcab4f77fe67aa47846b3b375.gif"
+                          class="tooltipHTML" title="己方艦隊|採集回收 (返)"
+            
+        />
+    </td>
+
+            <td class="originFleet">
+                            <figure class="planetIcon planet"></figure>Eternal                                    </td>
+        <td class="coordsOrigin">
+            <a href="http://s113-tw.ogame.gameforge.com/game/index.php?page=galaxy&galaxy=1&system=42" target="_top">
+                [1:42:8]            </a>
+        </td>
+    
+
+    <td class="detailsFleet">
+                    <span>6</span>
+            </td>
+    <td class="icon_movement_reserve">
+                <span class="tooltip tooltipRight tooltipClose"
+                title="&lt;div class=&quot;htmlTooltip&quot;&gt;
+    &lt;h1&gt;艦隊詳細資料:&lt;/h1&gt;
+    &lt;div class=&quot;splitLine&quot;&gt;&lt;/div&gt;
+&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;fleetinfo&quot;&gt;
+    &lt;tr&gt;
+        &lt;th colspan=&quot;2&quot;&gt;艦船數:&lt;/th&gt;
+    &lt;/tr&gt;
+            &lt;tr&gt;
+        &lt;td&gt;回收船:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+                &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th colspan=&quot;2&quot;&gt;裝運:&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;金屬:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;晶體:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;重氫:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;
+" data-federation-user-id="">&nbsp;</span>
+            </td>
+    <td class="destFleet">
+        <figure class="planetIcon tf"></figure>廢墟    </td>
+
+    <td class="destCoords">
+        <a href="http://s113-tw.ogame.gameforge.com/game/index.php?page=galaxy&galaxy=1&system=140" target="_top">
+            [1:140:7]        </a>
+    </td>
+
+
+    <td class="sendProbe">
+            </td>
+    <td class="sendMail">
+            </td>
+</tr>
+
+                                                                    
+<tr class="eventFleet" id="eventRow-7003291"    data-mission-type="8"
+    data-return-flight="true"
+    data-arrival-time="1439467618"
+    >
+
+    <td class="countDown friendly textBeefy" id="counter-eventlist-7003291">
+        載入中...    </td>
+            <td class="arrivalTime">20:06:58 小時</td>
+    
+    <td class="missionFleet">
+        <img src="http://gf1.geo.gfsrv.net/cdn08/26dd1bcab4f77fe67aa47846b3b375.gif"
+                          class="tooltipHTML" title="己方艦隊|採集回收 (返)"
+            
+        />
+    </td>
+
+            <td class="originFleet">
+                            <figure class="planetIcon planet"></figure>Eternal                                    </td>
+        <td class="coordsOrigin">
+            <a href="http://s113-tw.ogame.gameforge.com/game/index.php?page=galaxy&galaxy=1&system=42" target="_top">
+                [1:42:8]            </a>
+        </td>
+    
+
+    <td class="detailsFleet">
+                    <span>6</span>
+            </td>
+    <td class="icon_movement_reserve">
+                <span class="tooltip tooltipRight tooltipClose"
+                title="&lt;div class=&quot;htmlTooltip&quot;&gt;
+    &lt;h1&gt;艦隊詳細資料:&lt;/h1&gt;
+    &lt;div class=&quot;splitLine&quot;&gt;&lt;/div&gt;
+&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;fleetinfo&quot;&gt;
+    &lt;tr&gt;
+        &lt;th colspan=&quot;2&quot;&gt;艦船數:&lt;/th&gt;
+    &lt;/tr&gt;
+            &lt;tr&gt;
+        &lt;td&gt;回收船:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+                &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th colspan=&quot;2&quot;&gt;裝運:&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;金屬:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;晶體:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;重氫:&lt;/td&gt;
+        &lt;td class=&quot;value&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;
+" data-federation-user-id="">&nbsp;</span>
+            </td>
+    <td class="destFleet">
+        <figure class="planetIcon tf"></figure>廢墟    </td>
+
+    <td class="destCoords">
+        <a href="http://s113-tw.ogame.gameforge.com/game/index.php?page=galaxy&galaxy=1&system=140" target="_top">
+            [1:140:12]        </a>
+    </td>
+
+
+    <td class="sendProbe">
+            </td>
+    <td class="sendMail">
+            </td>
+</tr>
+
+                                    </tbody>
+    </table>    <div id="eventFooter"></div>
+</div>

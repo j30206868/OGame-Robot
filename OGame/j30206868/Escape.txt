@@ -1,0 +1,26 @@
+<?xml encoding="UTF-8">
+
+<div title="1.39.11.1"> 
+
+	<span id="shields">
+		<li>  1.42.8   </li>
+		<li>  1.42.9   </li>
+		<li>  1.42.11  </li>
+	</span>
+
+	<span id="max">
+		100
+	</span>
+
+	<span id="details"> 
+		<li> 死星       , 1    </li>
+		<li> 毀滅者     , 10   </li>
+		<li> 導彈艦     , 10   </li>
+		<li> 戰鬥巡洋艦 , 10   </li>
+		<li> 戰列艦     , 10   </li>
+		<li> 巡洋艦     , 100  </li>
+		<li> 重型戰鬥機 , 500  </li>
+		<li> 輕型戰鬥機 , 1    </li>
+	</span>
+
+</div>

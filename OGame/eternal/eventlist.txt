@@ -1,0 +1,12 @@
+
+<div id="eventListWrap">
+    <div id="eventHeader">
+        <a class="close_details eventToggle" href="javascript:void(0);">
+            <img src="http://gf2.geo.gfsrv.net/cdndf/3e567d6f16d040326c7a0ea29a4f41.gif" height="16" width="16" />
+        </a>
+        <h4>事件</h4>
+    </div>    <table id="eventContent">
+        <tbody>
+                    </tbody>
+    </table>    <div id="eventFooter"></div>
+</div>
